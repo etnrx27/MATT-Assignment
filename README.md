@@ -12,6 +12,6 @@ Due to the report being so large in size, the report containing the documentatio
 3) Ryuk_Ransomware_Analyse.docx
 
 # Contributors
-Neo Rei Siang Edward
-Ow Kai Jie Clarence
-Mabel Choi JingYi
+1) Neo Rei Siang Edward
+2) Ow Kai Jie Clarence
+3) Mabel Choi JingYi
