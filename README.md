@@ -1,4 +1,4 @@
-# Malware_Analysis_Experimentation
+# Malware_Analyse_Experimentation
 Performing simple malware analysis using static analysis and dynmaic analysis techniques on two samples of malwares. 
 
 # Ransomewares analysed on
